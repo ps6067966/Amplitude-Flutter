@@ -7,8 +7,8 @@
 
 [![pub package](https://img.shields.io/pub/v/amplitude_flutter_new.svg)](https://pub.dartlang.org/packages/amplitude_flutter_new)
 
-# Official Amplitude Flutter SDK
-This is the Unofficial Amplitude Flutter SDK developed and maintained by Amplitude Inc.
+# Unofficial Amplitude Flutter SDK
+This is the Unofficial Amplitude Flutter SDK developed and maintained by Pratap Singh.
 
 ## Installation and Quick Start
 - Please visit our :100:[Developer Center](https://developers.amplitude.com/docs/flutter-setup) for instructions on installing and using our the SDK.
