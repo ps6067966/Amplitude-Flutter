@@ -1,6 +1,6 @@
 name: amplitude_flutter_new
 description: Amplitude Flutter plugin - This is unofficial plugin. Dependency issue is resolved. Amplitude Sdk version is also updated. 
-version: 1.0.0
+version: 1.0.1
 homepage: https://www.amplitude.com
 repository: https://github.com/ps6067966/Amplitude-Flutter
 
