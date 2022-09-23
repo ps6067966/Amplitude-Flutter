@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'amplitude_flutter'
+  s.name             = 'amplitude_flutter_new'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.homepage         = 'http://example.com'

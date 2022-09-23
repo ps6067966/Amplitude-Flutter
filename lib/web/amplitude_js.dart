@@ -32,8 +32,8 @@ class Amplitude {
       String groupType,
       String groupName,
       Identify groupIdentify,
-      Function? opt_callback,
-      Function? opt_error_callback,
+      Function? optCallback,
+      Function? optErrorCallback,
       bool? outOfSession);
 }
 

@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:amplitude_flutter/amplitude.dart';
+import 'package:amplitude_flutter_new/amplitude.dart';
 import 'package:flutter/material.dart';
 
 import 'app_state.dart';

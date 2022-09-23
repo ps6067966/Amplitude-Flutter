@@ -1,12 +1,12 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:amplitude_flutter/constants.dart';
-import 'package:amplitude_flutter/identify.dart';
+import 'package:amplitude_flutter_new/constants.dart';
+import 'package:amplitude_flutter_new/identify.dart';
 import 'package:flutter/services.dart';
 
 abstract class _Amplitude {
-  final MethodChannel _channel = const MethodChannel('amplitude_flutter');
+  final MethodChannel _channel = const MethodChannel('amplitude_flutter_new');
 }
 
 class Amplitude extends _Amplitude {

@@ -1,4 +1,4 @@
-package com.amplitude.amplitude_flutter
+package com.amplitude.amplitude_flutter_new
 
 import android.content.Context
 import android.app.Application
@@ -17,7 +17,7 @@ import org.json.JSONObject
 class AmplitudeFlutterPlugin : FlutterPlugin, MethodCallHandler {
     companion object {
 
-        private const val methodChannelName = "amplitude_flutter"
+        private const val methodChannelName = "amplitude_flutter_new"
 
         var ctxt: Context? = null
 

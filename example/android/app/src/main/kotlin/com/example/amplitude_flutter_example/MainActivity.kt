@@ -1,4 +1,4 @@
-package com.example.amplitude_flutter_example
+package com.example.amplitude_flutter_new_example
 
 import io.flutter.embedding.android.FlutterActivity
 

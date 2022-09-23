@@ -1,5 +1,5 @@
 #import "AmplitudeFlutterPlugin.h"
-#import <amplitude_flutter/amplitude_flutter-Swift.h>
+#import <amplitude_flutter_new/amplitude_flutter_new-Swift.h>
 
 @implementation AmplitudeFlutterPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {

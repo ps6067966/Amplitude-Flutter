@@ -1,4 +1,4 @@
-# amplitude_flutter_example
+# amplitude_flutter_new_example
 
 Demonstrates how to use the amplitude flutter plugin.
 

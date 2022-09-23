@@ -9,7 +9,7 @@ import 'dart:async';
 class AmplitudeFlutterPlugin {
   static void registerWith(Registrar registrar) {
     final channel = MethodChannel(
-      'amplitude_flutter',
+      'amplitude_flutter_new',
       const StandardMethodCodec(),
       registrar,
     );
@@ -171,7 +171,7 @@ class AmplitudeFlutterPlugin {
         throw PlatformException(
           code: 'Unimplemented',
           details:
-              "The amplitude_flutter plugin for web doesn't implement the method '${call.method}'",
+              "The amplitude_flutter_new plugin for web doesn't implement the method '${call.method}'",
         );
     }
   }

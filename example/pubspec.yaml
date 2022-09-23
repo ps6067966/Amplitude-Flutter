@@ -1,5 +1,5 @@
-name: amplitude_flutter_example
-description: Demonstrates how to use the amplitude_flutter plugin.
+name: amplitude_flutter_new_example
+description: Demonstrates how to use the amplitude_flutter_new plugin.
 publish_to: 'none'
 
 environment:
@@ -15,7 +15,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  amplitude_flutter:
+  amplitude_flutter_new:
     path: ../
 
 flutter:

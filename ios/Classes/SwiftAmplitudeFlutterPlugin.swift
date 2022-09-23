@@ -4,7 +4,7 @@ import Amplitude
 
 @objc public class SwiftAmplitudeFlutterPlugin: NSObject, FlutterPlugin {
     public static func register(with registrar: FlutterPluginRegistrar) {
-        let channel = FlutterMethodChannel(name: "amplitude_flutter", binaryMessenger: registrar.messenger())
+        let channel = FlutterMethodChannel(name: "amplitude_flutter_new", binaryMessenger: registrar.messenger())
         let instance = SwiftAmplitudeFlutterPlugin()
         registrar.addMethodCallDelegate(instance, channel: channel)
     }
